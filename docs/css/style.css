@@ -1976,7 +1976,9 @@ textarea.form-input {
 }
 
 .list-marked-primary > li {
-	color: #1c76d8;
+/*	color: #1c76d8;*/
+	color: #000;
+  font-weight: bold;
 }
 
 .list-marked-primary > li:before {
